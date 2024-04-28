@@ -3,7 +3,7 @@
 This is the PyTorch implementation of our [IJCAI 2024](https://ijcai24.org/) paper: FBLG: A Local Graph Based Approach for Handling Dual Skewed Non-IID Data in Federated Learning
 
 ## ChangeLog
-* [2024-04-18] Code released with reimplementations of experiments
+* [2024-04-28] Code released with reimplementations of experiments
 
 ## Preparation
 
@@ -15,6 +15,7 @@ This is the PyTorch implementation of our [IJCAI 2024](https://ijcai24.org/) pap
 * scipy/1.10.0
 
 ### Dataset
+* Due to size restrictions, RAW_DATA is at https://drive.google.com/drive/folders/1-pcuOjUsFI64kHoAJJ6_D9I1PPfQtmhw?usp=drive_link
 * MNIST
 * FASHION
 * CIFAR10
